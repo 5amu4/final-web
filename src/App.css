@@ -1,0 +1,13 @@
+.banner{
+    height: 33.33vh;
+    text-align: center;
+    font-size: 63px;
+    font-weight: 900;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    background-color: chartreuse;
+
+}

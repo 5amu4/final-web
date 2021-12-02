@@ -1,10 +1,12 @@
-import Picture from './Picture.JPG';
+import react from 'react';
+import Banner from './Banner';
+import  navhed from './navhed.svg';
 
 const hero = () => {
     return (
         <>
 
-        <img src = {Picture} />
+        
 
         </>
     );
